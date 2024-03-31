@@ -14,6 +14,8 @@
 - 🏘 I live in **SriLanka**
 
 - 📫 How to reach me **nethunpw@gmail.com**
+- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
