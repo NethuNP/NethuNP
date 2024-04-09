@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nethmini Prabodha</h1>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">In Love with IT 👉 Crafting Digital Dreams 💻❤️</h3>
  <div  align="center" ><picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px ></picture> </div>
 
@@ -7,6 +11,10 @@
 
 <p align="center"> <a href="https://twitter.com/0_prabodha_0" target="blank"><img src="https://img.shields.io/twitter/follow/0_prabodha_0?logo=twitter&style=for-the-badge" alt="0_prabodha_0" /></a> </p>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 - 🔭 I’m currently working on **Web Application**
 
 - 🌱 I’m currently learning **Advanced Technological Institute**
@@ -14,13 +22,16 @@
 - 🏘 I live in **SriLanka**
 
 - 📫 How to reach me **nethunpw@gmail.com**
-- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0_prabodha_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0_prabodha_0" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/@0_nethu_s_diary_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@0_nethu_s_diary_0" height="30" width="40" /></a>
+ <a href="https://twitter.com/https://0_prabodha_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="00_nethu_00" height="30" width="40" /></a>
+<a href="https://fb.com/https://nethmini.praboda.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nethmini " height="30" width="40" /></a>
+<a href="https://instagram.com/nethmini.praboda.54?igsh=YWRwNWpiMDUzbXE4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nethmini_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
